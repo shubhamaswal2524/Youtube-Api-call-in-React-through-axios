@@ -11,3 +11,4 @@ const VideoList = ({videos ,onVideoSelect}) => {
 };
 
 export default VideoList;
+// this is a video list component
